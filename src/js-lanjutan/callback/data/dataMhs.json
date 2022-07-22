@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "Ahmad Nurdiansah",
+    "alamat": "Jakarta Utara",
+    "jurusan": "Teknik Informatika"
+  },
+  {
+    "nama": "Adji Dwi Pramono",
+    "alamat": "Jakarta Barat",
+    "jurusan": "Teknik Mesin"
+  },
+  {
+    "nama": "Ajeng Tri Julianti",
+    "alamat": "Jakarta Pusat",
+    "jurusan": "Kedokteran"
+  },
+  {
+    "nama": "Revaldi Afrian",
+    "alamat": "Jakarta Timur",
+    "jurusan": "Teknik Design"
+  },
+  {
+    "nama": "Cholifah",
+    "alamat": "Jakarta Selatan",
+    "jurusan": "Masak"
+  }
+]
